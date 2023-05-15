@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ConalVN</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Node, Express, TypeScript, NextJS**
 
