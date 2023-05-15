@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ConalVN</h1>
 <h3 align="center">Front-end Developer</h3>
 
-- 🌱 I’m currently learning **Node, Express, MongoDB, UI Design,**
+- 🌱 I’m currently learning **Node, Express, TypeScript, NextJS**
 
 - 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/conalvn/)
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [instagram.com/conalvn_](instagram.com/conalvn_)
 
-- 💬 Ask me about **javascript, react, tailwind, ,....**
+- 💬 Ask me about **javascript, react, tailwind, ....**
 
 - 📫 How to reach me **develooper2022@gmail.com**
 
