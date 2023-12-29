@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ConalVN</h1>
 <h3 align="center">Web/Game Developer</h3>
 
-- 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/conalvn/)
-
 - 💬 Ask me about **javascript/typescript, cocos creator, react/next, tailwind, ....**
 
 - 📫 How to reach me **develooper2022@gmail.com**
